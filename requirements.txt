@@ -1,3 +1,5 @@
+flask
+gunicorn
 dash
 dash-bootstrap-components
 dash-table
